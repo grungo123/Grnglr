@@ -13,7 +13,7 @@ import scalafx.scene.control.Label
 
 
 
-object demo extends JFXApp3:
+object demo extends /**Donec et nisi nisi.Morbi laoreet volutpat venenatis.In ac elit in nibh vulputate laoreet. Donec lacinia ligula ex, vitae venenatis tortor accumsan sed.*/JFXApp3:
   /**Lorem ipsum dolor sit amet, consectetur adipiscing elit.
  * Aliquam ut iaculis tellus. Nunc pellentesque est leo, nec mollis massa iaculis eu.
  * Nunc gravida diam a sem accumsan, vitae bibendum nunc ullamcorper.
